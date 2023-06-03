@@ -1,7 +1,7 @@
 - 👋 Hey there, I’m David -- @davidmm07
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning Cloud Computing
-- 💞️ I’m looking to collaborate on Blockchain, Data Engineer or Microservices projects.
+- 💞️ I’m looking to collaborate on Blockchain, Data Engineer , Microservices  or AI projects.
 - 📫 How to reach me : [by email](mailto:davidmym07@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
